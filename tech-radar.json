@@ -490,7 +490,7 @@
       ],
       "key": "argocd",
       "id": "argocd",
-      "title": "ArgoCD",
+      "title": "OpenShift GitOps",
       "quadrant": "infrastructure"
     },
     {
