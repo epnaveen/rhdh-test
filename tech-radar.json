@@ -588,7 +588,7 @@
       "title": "ROSA",
       "quadrant": "infrastructure"
     },
-     {
+    {
       "timeline": [
         {
           "ringId": "adopt",
@@ -602,10 +602,10 @@
           "title": "Learn more"
         }
       ],
-      "key": "rosa",
-      "id": "rosa",
-      "title": "ROSA",
-      "quadrant": "infrastructure"
+      "key": "gitops",
+      "id": "gitops",
+      "title": "GitOps",
+      "quadrant": "process"
     }
   ],
   "quadrants": [
