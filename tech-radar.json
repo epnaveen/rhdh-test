@@ -665,10 +665,6 @@
     {
       "id": "process",
       "name": "Process"
-    },
-    {
-      "id": "techniques",
-      "name": "Techniques"
     }
   ],
   "rings": [
