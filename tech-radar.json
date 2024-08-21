@@ -376,7 +376,7 @@
       "key": "mysql",
       "id": "mysql",
       "title": "MySQL",
-      "quadrant": "storage"
+      "quadrant": "infrastructure"
     },
     {
       "timeline": [
@@ -389,7 +389,7 @@
       "key": "postgresql",
       "id": "postgresql",
       "title": "Postgresql",
-      "quadrant": "storage"
+      "quadrant": "infrastructure"
     },
     {
       "timeline": [
@@ -402,7 +402,7 @@
       "key": "redis-cache",
       "id": "redis-cache",
       "title": "Redis Cache",
-      "quadrant": "storage"
+      "quadrant": "infrastructure"
     },
     {
       "timeline": [
@@ -415,7 +415,7 @@
       "key": "s3-bucket",
       "id": "s3-bucket",
       "title": "AWS S3",
-      "quadrant": "storage"
+      "quadrant": "infrastructure"
     },
     {
       "timeline": [
@@ -428,7 +428,7 @@
       "key": "infinispan",
       "id": "infinispan",
       "title": "Infinispan",
-      "quadrant": "storage"
+      "quadrant": "infrastructure"
     },
     {
       "timeline": [
@@ -441,7 +441,7 @@
       "key": "noobaa-s3-bucket",
       "id": "noobaa-s3-bucket",
       "title": "Noobaa S3",
-      "quadrant": "storage"
+      "quadrant": "infrastructure"
     },
     {
       "timeline": [
@@ -453,7 +453,7 @@
       "key": "oracle",
       "id": "oracle",
       "title": "Oracle",
-      "quadrant": "storage"
+      "quadrant": "infrastructure"
     },
     {
       "timeline": [
@@ -587,6 +587,25 @@
       "id": "rosa",
       "title": "ROSA",
       "quadrant": "infrastructure"
+    },
+     {
+      "timeline": [
+        {
+          "ringId": "adopt",
+          "date": "2020-08-06T00:00:00.000Z",
+          "description": "GitOps uses Git repositories as a single source of truth to deliver infrastructure as code"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://www.redhat.com/en/topics/devops/what-is-gitops",
+          "title": "Learn more"
+        }
+      ],
+      "key": "rosa",
+      "id": "rosa",
+      "title": "ROSA",
+      "quadrant": "infrastructure"
     }
   ],
   "quadrants": [
@@ -603,8 +622,8 @@
       "name": "Languages"
     },
     {
-      "id": "storage",
-      "name": "Storage"
+      "id": "process",
+      "name": "Process"
     }
   ],
   "rings": [
