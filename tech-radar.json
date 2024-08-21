@@ -627,6 +627,26 @@
       "id": "aac",
       "title": "AaC",
       "quadrant": "process"
+    },
+    {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "adopt",
+          "date": "2024-03-01T00:00:00.000Z",
+          "description": "RAG stands for Retrieval Augmented Generation"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://github.com/finos/architecture-as-code",
+          "title": "Learn more"
+        }
+      ],
+      "key": "rag",
+      "id": "rag",
+      "title": "RAG",
+      "quadrant": "technique"
     }
   ],
   "quadrants": [
@@ -645,6 +665,10 @@
     {
       "id": "process",
       "name": "Process"
+    },
+    {
+      "id": "techniques",
+      "name": "Techniques"
     }
   ],
   "rings": [
