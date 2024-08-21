@@ -607,6 +607,26 @@
       "id": "gitops",
       "title": "GitOps",
       "quadrant": "process"
+    },
+     {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2024-03-01T00:00:00.000Z",
+          "description": "GitOps uses Git repositories as a single source of truth to deliver infrastructure as code"
+        }
+      ],
+      "links": [
+        {
+          "url": "https://github.com/finos/architecture-as-code",
+          "title": "Learn more"
+        }
+      ],
+      "key": "aac",
+      "id": "aac",
+      "title": "AaC",
+      "quadrant": "process"
     }
   ],
   "quadrants": [
