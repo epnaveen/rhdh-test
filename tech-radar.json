@@ -631,12 +631,11 @@
     {
       "timeline": [
         {
-          "moved": 1,
+          "moved": 0,
           "ringId": "adopt",
           "date": "2020-08-06T00:00:00.000Z",
           "description": "GitOps uses Git repositories as a single source of truth to deliver infrastructure as code"
-        },
-       
+        }
       ],
       "links": [
         {
@@ -656,8 +655,7 @@
           "ringId": "assess",
           "date": "2024-03-01T00:00:00.000Z",
           "description": "GitOps uses Git repositories as a single source of truth to deliver infrastructure as code"
-        },
-        
+        }
       ],
       "links": [
         {
