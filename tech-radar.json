@@ -385,6 +385,30 @@
       "title": "RAG",
       "quadrant": "frameworks"
     },
+     {
+      "timeline": [
+        {
+          "moved": 0,
+          "ringId": "assess",
+          "date": "2024-03-01T00:00:00.000Z",
+          "description": "The FinOps Open Cost and Usage Specification (FOCUS) aims to reduce inconsistent among cloud service providers with a spec
+containing a set of terminologies (aligned with the FinOps framework), a schema and a minimum
+set of requirements for billing data. The spec is intended to support use cases common to a variety
+of FinOps practitioners. With growing industry adoption, FOCUS will make it easier for platforms and end
+users to get a holistic view of cloud spend across a long tail of cloud and SaaS providers."
+        }
+      ],
+      "links": [
+        {
+          "url": "https://focus.finops.org/",
+          "title": "Learn more"
+        }
+      ],
+      "key": "focus",
+      "id": "focus",
+      "title": "FOCUS",
+      "quadrant": "frameworks"
+    },
     {
       "timeline": [
         {
